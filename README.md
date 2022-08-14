@@ -1,2 +1,0 @@
-# Habit-tracker
-react practice
